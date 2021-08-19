@@ -1,8 +1,6 @@
-﻿![Header](https://github.com/Rbkmen/Rbkmen/blob/main/assets/header.gif)
+﻿## Всем привет, я начинающий QA Engineer.
 
-# Я начинающий QA Engineer.
-
-## Tools
+### Tools
 ![Jmeter](https://img.shields.io/badge/Jmeter-090909?style=for-the-badge&logo=jmeter)
 ![Charles](https://img.shields.io/badge/Charles-090909?style=for-the-badge&logo=Charles)
 ![Postman](https://img.shields.io/badge/Postman-090909?style=for-the-badge&logo=Postman)
