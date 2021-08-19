@@ -11,3 +11,10 @@
 ![GitHub](https://img.shields.io/badge/GitHub-090909?style=for-the-badge&logo=GitHub)
 ![LinuxTerminal](https://img.shields.io/badge/LinuxTerminal-090909?style=for-the-badge&logo=Ubuntu)
 ![GitBash](https://img.shields.io/badge/GitBash-090909?style=for-the-badge&logo=Git)
+
+
+### Контакты
+[![VK](https://img.shields.io/badge/Vkontakte-090909?style=for-the-badge&logo=Vk)](https://vk.com/andrejvearshko)
+[![Instagram](https://img.shields.io/badge/Instagram-090909?style=for-the-badge&logo=Instagram)](https://www.instagram.com/andrei_vearshko/)
+[![Linkedin](https://img.shields.io/badge/Linkedin-090909?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/rbkmen/)
+[![Telegram](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=Telegram)](https://t.me/AndreiViarshko)
