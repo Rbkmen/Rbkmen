@@ -6,7 +6,6 @@
 
 📌 Полный список изученных команд/умений/навыков по каждому инструменту указан ниже в закрепленном разделе [QacourseVadimKsendzov](https://github.com/Rbkmen/QAcourseVadimKsendzov) в соответсвующих ветках :) 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rbkmen)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
@@ -29,3 +28,5 @@
 [![Instagram](https://img.shields.io/badge/Instagram-090909?style=for-the-badge&logo=Instagram)](https://www.instagram.com/andrei_vearshko/)
 [![Linkedin](https://img.shields.io/badge/Linkedin-090909?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/rbkmen/)
 [![Telegram](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=Telegram)](https://t.me/AndreiViarshko)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rbkmen&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
