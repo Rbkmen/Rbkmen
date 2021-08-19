@@ -29,4 +29,4 @@
 [![Linkedin](https://img.shields.io/badge/Linkedin-090909?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/rbkmen/)
 [![Telegram](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=Telegram)](https://t.me/AndreiViarshko)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rbkmen&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rbkmen&show_icons=true&theme=dracula)](#)
