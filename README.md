@@ -1,6 +1,7 @@
-﻿## Всем привет, я начинающий QA Engineer.
+﻿## Всем привет, я QA Engineer.
 Привет 
 Меня зовут Андрей. Прошёл курсы MyIT.by, занимаюсь на курсах у Вадима Ксендзова (обучение с 26.07.2021 по 26.10.2021, программа: https://ksendzov.com/). Данная страница посвящена моим наработкам и решениям в рамках самостоятельного изучения и обучения по курсам.
+На данный момент работаю в отличной компании "Territory IT"
 
 
 
@@ -25,7 +26,7 @@
 
 ### Контакты
 [![VK](https://img.shields.io/badge/Vkontakte-090909?style=for-the-badge&logo=Vk)](https://vk.com/andrejvearshko)
-[![Instagram](https://img.shields.io/badge/Instagram-090909?style=for-the-badge&logo=Instagram)](https://www.instagram.com/andrei_vearshko/)
+[![Instagram](https://img.shields.io/badge/Instagram-090909?style=for-the-badge&logo=Instagram)](https://www.instagram.com/andrei_viarshko/)
 [![Linkedin](https://img.shields.io/badge/Linkedin-090909?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/rbkmen/)
 [![Telegram](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=Telegram)](https://t.me/AndreiViarshko)
 
