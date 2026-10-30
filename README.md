@@ -21,10 +21,6 @@ My work on QA Orchestrator was selected for the [XERJ Corpus Hub](https://hub.xe
 
 [![QA Orchestrator MCP server – quality and maintenance score on Glama](https://glama.ai/mcp/servers/Rbkmen/qa-orchestrator/badges/score.svg)](https://glama.ai/mcp/servers/Rbkmen/qa-orchestrator)
 
-## Tools and technologies
-
-`Python` · `JavaScript` · `WebdriverIO` · `MCP` · `Git` · `GitLab CI` · `Jira` · `TestRail`
-
 ---
 
 I like building practical tools, asking what could go wrong, and backing conclusions with evidence.
