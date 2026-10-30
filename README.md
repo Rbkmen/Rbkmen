@@ -28,13 +28,23 @@ I explore how agents and MCP integrations can support reviews and investigations
 
 ## 🧭 Featured project: QA Orchestrator
 
-[**QA Orchestrator**](https://github.com/Rbkmen/qa-orchestrator) is my open-source local MCP server for structured, privacy-aware QA workflows.
+### From code changes to an evidence-based review
 
-It helps an AI host select review profiles, track review stages, and apply explicit escalation rules. The host remains responsible for inspecting code, evaluating evidence, reporting findings, and making decisions.
+[**QA Orchestrator**](https://github.com/Rbkmen/qa-orchestrator) is my open-source toolkit for structured AI-assisted code and QA reviews. It provides a local MCP server and optional execution and evaluation tools.
 
-`Change → Triage → Review → Synthesis → Outcome`
+A review can involve changing requirements, several services, uncertain behavior, and gaps in test coverage. I built QA Orchestrator to bring structure to that work: choose a review route, keep track of what was examined, and make the outcome and its limits clear.
 
-The project reflects an idea I care about: **AI-assisted QA should make its reasoning and limits easier to inspect.**
+**How it helps**
+
+- 🧩 **Choose the right perspective** — specialist profiles and bundles focus the review on the change.
+- 📌 **Anchor the review in evidence** — utilities help pin Git inputs and connect findings to source context.
+- 🔍 **Follow an explicit workflow** — triage, review, optional deeper investigation, and synthesis have defined stages.
+- 🚦 **Make the outcome clear** — record whether a review is completed, partial, or blocked.
+- 🛠️ **Explore execution and evaluation** — optional tools support supervised profile execution and benchmark workflows.
+
+`📥 Change & evidence → 🧭 Triage → 🔍 Review → 🧩 Synthesis → 📋 Outcome`
+
+> The AI host still inspects the source, checks findings, and owns the final decision. The MCP server coordinates and validates reported workflow state; it does not independently prove that a review was performed.
 
 [![QA Orchestrator MCP server – quality and maintenance score on Glama](https://glama.ai/mcp/servers/Rbkmen/qa-orchestrator/badges/score.svg)](https://glama.ai/mcp/servers/Rbkmen/qa-orchestrator)
 
