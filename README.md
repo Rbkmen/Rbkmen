@@ -1,7 +1,5 @@
 <div align="center">
 
-![Illustration of QA, code, and AI](assets/qa-banner.jpg)
-
 # Hi, I'm Andrei 👋
 
 **QA Engineer · Test Automation · AI-assisted Quality Engineering**
@@ -16,16 +14,16 @@ I explore how thoughtful testing, automation, and AI tools can help teams unders
 
 ## 🔍 What I do
 
-**QA reviews & investigation**  
+**🔎 QA reviews & investigation**  
 I connect requirements with implementation, follow changes across services, and look for risks that can be supported by concrete evidence. I care about the difference between what code suggests and what has actually been verified.
 
-**Test automation**  
+**🤖 Test automation**  
 I work on web and mobile automation, building and maintaining checks around real user flows. I focus on useful coverage, readable tests, and understanding failures rather than treating a green run as the whole story.
 
-**API & integration testing**  
+**🔗 API & integration testing**  
 I look at how systems exchange data, how failures surface, and whether changes affect the consumers and workflows around them.
 
-**AI-assisted QA**  
+**🧠 AI-assisted QA**  
 I explore how agents and MCP integrations can support reviews and investigations: organizing context, finding relevant evidence, and making the limits of a review visible.
 
 ## 🧭 Featured project: QA Orchestrator
@@ -50,6 +48,6 @@ QA Orchestrator was selected for [XERJ Corpus Hub](https://hub.xerj.org/contribu
 
 <div align="center">
 
-**Curiosity. Context. Evidence.**
+[![QA mindset](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1500&color=58A6FF&center=true&vCenter=true&width=500&lines=Curiosity.+Context.+Evidence.;Test+thoughtfully.+Learn+continuously.)](https://github.com/Rbkmen)
 
 </div>
