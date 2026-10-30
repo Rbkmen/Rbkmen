@@ -1,5 +1,7 @@
 <div align="center">
 
+![Illustration of QA, code, and AI](assets/qa-banner.jpg)
+
 # Hi, I'm Andrei 👋
 
 **QA Engineer · Test Automation · AI-assisted Quality Engineering**
